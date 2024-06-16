@@ -4,6 +4,8 @@ Welcome to the Tractian Mobile Engineer challenge repository!
 
 This repository contains the implementation for the Mobile Engineer challenge by Tractian. All required features specified in the challenge prompt have been implemented, and all filters are functioning correctly.
 
+Challenge repository: https://github.com/tractian/challenges/tree/main/mobile
+
 ## Implemented Features
 - Implemented all features as specified in the challenge prompt.
 - All filters (search, sensor_type, sensor_status) are operational and tested.
